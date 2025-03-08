@@ -92,6 +92,3 @@ Guarda la transcripción en un archivo de texto.
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
-```
-
-Este `README.md` te proporciona una descripción general de lo que hacen los scripts, cómo usarlos y algunos detalles técnicos. También cubre las funciones principales y las dependencias necesarias. Puedes personalizarlo aún más según tus necesidades.
