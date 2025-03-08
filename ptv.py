@@ -1,3 +1,4 @@
+#Este codigo solo hace el texto plano en la terminal y debes colocar manualmente la ruta del archivo
 # Instalación de las bibliotecas necesarias (ejecutar en una celda)
 # !pip install SpeechRecognition pydub
 
@@ -55,7 +56,7 @@ def convertir_audio_a_texto(ruta_audio):
 
 # Ejemplo de uso
 # Reemplaza 'ruta/al/audio_whatsapp.opus' con la ruta de tu archivo
-ruta_archivo = '02RocioCareerCoach.ogg'
+ruta_archivo = 'xxxxxxxxxxxxx'
 texto_transcrito = convertir_audio_a_texto(ruta_archivo)
 print("Texto transcrito:")
 print(texto_transcrito)

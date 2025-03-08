@@ -1,5 +1,6 @@
+# Este codigo te pide el audio luego de ejecutarse y tambien te da la opcion de guardarlo en un archivo comun de texto o en word, para lo cual es necesario bajar las biblioteca python-doc
 # Instalación de las bibliotecas necesarias (ejecutar primero si no están instaladas)
-# !pip install SpeechRecognition pydub
+# !pip install SpeechRecognition pydub python-doc
 
 import speech_recognition as sr
 from pydub import AudioSegment
